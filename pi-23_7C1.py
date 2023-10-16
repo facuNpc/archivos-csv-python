@@ -17,4 +17,6 @@ def desafio():
 
 if __name__ == '__main__':
     print("Bienvenidos a otra clase de Inove con Python")
-   
+    desafio()
+    stock = desafio()
+    print(stock)    
